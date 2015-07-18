@@ -33,16 +33,16 @@
     <autogen>{{KK}}  {{W}}{{-Z}} {{PU}} </autogen>
     <autogen>{{KK}}  {{E}}{{-Z}} {{PD}} </autogen>
     <autogen>{{KK}}  {{R}}{{-Z}} {{RT}}{{-hR}}</autogen>
-    <autogen>{{KK}}  {{T}}{{-Z}} {{UP}}{{-hR}}</autogen>
     <autogen>{{KK}}  {{A}}{{-Z}} {{LT}} </autogen>
     <autogen>{{KK}}  {{S}}{{-Z}} {{UP}} </autogen>
     <autogen>{{KK}}  {{D}}{{-Z}} {{DN}} </autogen>
     <autogen>{{KK}}  {{F}}{{-Z}} {{RT}} </autogen>
-    <autogen>{{KK}}  {{G}}{{-Z}} {{DN}}{{-hR}}</autogen>
+    <autogen>{{KK}}  {{G}}{{-Z}} {{UP}}{{-hR}}</autogen>
     <autogen>{{KK}}  {{Z}}{{-Z}} {{LT}}{{-hs}}</autogen>
     <autogen>{{KK}}  {{X}}{{-Z}} {{FE}} </autogen>
     <autogen>{{KK}}  {{C}}{{-Z}} {{FF}} </autogen>
     <autogen>{{KK}}  {{V}}{{-Z}} {{RT}}{{-hs}}</autogen>
+    <autogen>{{KK}}  {{B}}{{-Z}} {{DN}}{{-hR}}</autogen>
     <autogen>{{KK}}  {{P}}{{-Z}} {{LT}}{{-hR}} {{RT}}{{-hs}}</autogen>
     <autogen>{{KK}}  {{O}}{{-Z}} {{LT}}{{-mR}} {{RT}}{{-mR}} {{LT}}{{-ms}}</autogen>
     <autogen>{{KK}}  {{L}}{{-Z}} {{LT}}{{-mR}}</autogen>
