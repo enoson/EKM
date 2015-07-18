@@ -142,40 +142,31 @@ This is the entry file that Karabiner loads by default, it's possible to put all
 <include path="layout-bottom.xml"/>
 ```
 
-abbreviation.xml
-
+###### abbreviation.xml
 The original Karabiner config format is verbose, so I defined [abbreviations](https://pqrs.org/osx/karabiner/xml.html.en#replacementdef) for most keys, which makes customization easier.
 
-personal.xml
-
+###### personal.xml
 Default file for personal config, e.g. I use a track-point keyboard that has PrintScreen key on the original right windows key, so I need to remap it but others probably don't need.
 
-non-apple-mod.xml
-
+###### non-apple-mod.xml
 Override some EKM mappings for non Apple keyboard that has windows key instead of command..
 
-starter.xml
-
+###### starter.xml
 Override some EKM mappings for EKM-starter.
 
-combination.xml
-
+###### combination.xml
 Default EKM key combination mappings.
 
-simultaneous.xml
-
+###### simultaneous.xml
 Default EKM simultaneous key mappings.
 
-simul2combo-map.xml
-
+###### simul2combo-map.xml
 500+ simultaneous key to key combination mappings.
 
-starter-layout.xml
-
+###### starter-layout.xml
 Override some EKM layout mappings for EKM-starter.
 
-layout-top.xml, layout-middle.xml, layout-bottom.xml
-
+###### layout-top.xml, layout-middle.xml, layout-bottom.xml
 Default EKM layout, remember to put layout remap at last so it won't mess up other config.
 
 ## enable EKM
