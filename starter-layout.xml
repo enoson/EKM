@@ -11,6 +11,7 @@
 	  <name>starter layout for Apple keyboard</name>
 	  <identifier>starter-layout</identifier>
 	<!-- modifier overlay -->
+	  <autogen>{{OO}} {{sL}} {{sL}} {{DL}}</autogen>
 	  <autogen>{{OO}} {{cL}} {{cL}} {{RM}}</autogen>
 	  <autogen>{{OO}} {{hL}} {{hL}} {{RE}}</autogen>
 	  <autogen>{{OO}} {{SP}} {{zZ}} {{SP}}</autogen>

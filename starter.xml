@@ -32,7 +32,6 @@
     <name>starter mapping for Apple keyboard</name>
     <identifier>starter</identifier>
   <!-- virtual modifier Z pressed -->
-    <autogen>{{KK}} {{E}}{{-Z}} {{PD}} </autogen>
     <autogen>{{KK}} {{J}}{{-Z}} {{LT}}{{-mR}}</autogen>
     <autogen>{{KK}} {{K}}{{-Z}}  {{Z}}{{-hR}}</autogen>
     <autogen>{{KK}} {{L}}{{-Z}}  {{Z}}{{-hs}}</autogen>
@@ -64,5 +63,15 @@
     <autogen>{{SS}} {{hL}}{{X}} {{`}}</autogen>
     <autogen>{{SS}} {{hL}}{{C}} {{|}}</autogen>
     <autogen>{{SS}} {{hL}}{{V}} {{\}}</autogen>
+<!-- open app (left ctrl) -->
+    <autogen>{{SS}} {{cL}}{{J}} KeyCode::VK_OPEN_URL_Chrome</autogen>
+    <autogen>{{SS}} {{cL}}{{K}} KeyCode::VK_OPEN_URL_Emacs</autogen>
+    <autogen>{{SS}} {{cL}}{{L}} KeyCode::VK_OPEN_URL_Sublime</autogen>
+    <autogen>{{SS}} {{cL}}{{;}} KeyCode::VK_OPEN_URL_iTerm</autogen>
+    <autogen>{{SS}} {{cL}}{{U}} KeyCode::VK_OPEN_URL_Finder</autogen>
+    <autogen>{{SS}} {{cL}}{{I}} KeyCode::VK_OPEN_URL_Maestro</autogen>
+    <autogen>{{SS}} {{cL}}{{O}} KeyCode::VK_OPEN_URL_SourceTree</autogen>
+    <autogen>{{SS}} {{cL}}{{P}} KeyCode::VK_OPEN_URL_Twitch</autogen>
+    <autogen>{{SS}} {{cL}}{{[}} KeyCode::VK_OPEN_URL_Activity</autogen>
   </item>
 </root>

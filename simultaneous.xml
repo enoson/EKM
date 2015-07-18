@@ -54,6 +54,7 @@
     <autogen>{{SS}} {{cL}}{{O}} KeyCode::VK_OPEN_URL_Finder</autogen>
     <autogen>{{SS}} {{cL}}{{P}} KeyCode::VK_OPEN_URL_Maestro</autogen>
     <autogen>{{SS}} {{cL}}{{[}} KeyCode::VK_OPEN_URL_SourceTree</autogen>
+    <autogen>{{SS}} {{cL}}{{M}} KeyCode::VK_OPEN_URL_Activity</autogen>
     <autogen>{{SS}} {{cL}}{{,}} KeyCode::VK_OPEN_URL_Twitch</autogen>
 <!-- multi modifier key -->
     <autogen>{{SS}} {{SP}}{{hR}} {{hR}}{{-mR}}</autogen>
