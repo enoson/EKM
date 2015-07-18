@@ -1,0 +1,49 @@
+<root>
+<item>
+  <name>EKM layout - remap 3 middle rows</name>
+  <identifier>layout-middle</identifier>
+<!-- first row -->
+  <autogen>{{KK}} {{TB}} {{.}}</autogen>
+  <autogen>{{KK}} {{Q}}  {{(}}</autogen>
+  <autogen>{{KK}} {{W}}  {{D}}</autogen>
+  <autogen>{{KK}} {{E}}  {{S}}</autogen>
+  <autogen>{{KK}} {{R}}  {{L}}</autogen>
+  <autogen>{{KK}} {{T}}  {{J}}</autogen>
+  <autogen>{{KK}} {{Y}}  {{\}}</autogen>
+  <autogen>{{KK}} {{U}}  {{\}}</autogen>
+  <autogen>{{KK}} {{I}}  {{G}}</autogen>
+  <autogen>{{KK}} {{O}}  {{U}}</autogen>
+  <autogen>{{KK}} {{P}}  {{H}}</autogen>
+  <autogen>{{KK}} {{[}}  {{K}}</autogen>
+  <autogen>{{KK}} {{\}}  {{]}}</autogen>
+  <autogen>{{OO}} {{]}} {{FN}}{{-hR}} {{[}}</autogen>
+
+<!-- second -->
+  <autogen>{{KK}} {{A}}  {{A}}</autogen>
+  <autogen>{{KK}} {{S}}  {{T}}</autogen>
+  <autogen>{{KK}} {{D}}  {{R}}</autogen>
+  <autogen>{{OO}} {{F}}  {{hL}} {{TB}}</autogen>
+  <autogen>{{KK}} {{G}}  {{V}}</autogen>
+  <autogen>{{KK}} {{H}}  {{'}}</autogen>
+  <autogen>{{KK}} {{J}}  {{W}}</autogen>
+  <autogen>{{OO}} {{K}}  {{zZ}} {{RE}}</autogen>
+  <autogen>{{KK}} {{L}}  {{I}}</autogen>
+  <autogen>{{OO}} {{;}}  {{N}}</autogen>
+  <autogen>{{KK}} {{'}}  {{O}}</autogen>
+  <autogen>{{KK}} {{RE}} {{;}}</autogen>
+
+<!-- third -->
+  <autogen>{{KK}} {{sL}} {{TB}}{{-hL}}</autogen>
+  <autogen>{{KK}} {{Z}}  {{Q}}</autogen>
+  <autogen>{{KK}} {{X}}  {{B}}</autogen>
+  <autogen>{{KK}} {{C}}  {{,}}</autogen>
+  <autogen>{{KK}} {{V}}  {{M}}</autogen>
+  <autogen>{{KK}} {{B}}  {{X}}</autogen>
+  <autogen>{{KK}} {{N}}  {{/}}</autogen>
+  <autogen>{{KK}} {{M}}  {{P}}</autogen>
+  <autogen>{{KK}} {{,}}  {{C}}</autogen>
+  <autogen>{{KK}} {{.}}  {{Y}}</autogen>
+  <autogen>{{KK}} {{/}}  {{F}}</autogen>
+  <autogen>{{KK}} {{sR}} {{Z}}</autogen>
+</item>
+</root>

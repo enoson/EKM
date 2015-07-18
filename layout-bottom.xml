@@ -1,0 +1,12 @@
+<root>
+<item>
+  <name>EKM layout - remap bottom row for Apple keyboard</name>
+  <identifier>layout-bottom</identifier>
+  <autogen>{{OO}} {{hL}} {{cL}} {{RE}}</autogen>
+  <autogen>{{OO}} {{hR}} {{sR}} {{SP}}</autogen>
+  <autogen>{{OO}} {{mR}} {{mR}} {{FD}}</autogen>
+  <autogen>{{KK}} {{cL}} {{RM}}</autogen>
+  <autogen>{{KK}} {{SP}} {{E}} </autogen>
+  <autogen>{{OO}} {{DN}} {{FN}} {{ES}}</autogen>
+</item>
+</root>

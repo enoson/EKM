@@ -1,0 +1,21 @@
+<root>
+  <item>
+    <name>personal mapping, edit it to suit your personal needs</name>
+    <identifier>personal</identifier>
+    <autogen>{{SS}} {{K}}{{L}} {{C}}{{-hR}}</autogen>
+    <autogen>{{SS}} {{L}}{{;}} {{V}}{{-hR}}</autogen>
+    <autogen>{{SS}} {{;}}{{'}} {{X}}{{-hR}}</autogen>
+    <autogen>{{SS}} {{A}}{{S}} {{S}}{{-ch}}</autogen>
+    <autogen>{{SS}} {{S}}{{D}} {{D}}{{-ms}}</autogen>
+    <autogen>{{SS}} {{D}}{{F}} {{F}}{{-cm}}</autogen>
+    <autogen>{{OO}} KeyCode::PC_PRINTSCREEN, {{mL}} {{FD}}</autogen>
+    <!-- undo, redo -->
+    <autogen>{{KK}} {{L}}{{-hL}} {{Z}}{{-hL}} </autogen>
+    <autogen>{{KK}} {{;}}{{-hL}} {{Z}}{{-hL}}{{-sL}}</autogen>
+
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_SKarabiner</name><url type="shell">open -a /Applications/Sublime\ Text.app /Users/E/Library/Application\ Support/Karabiner/ </url></vkopenurldef>
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_Say </name><url type="shell">say "life is too long"</url></vkopenurldef>
+    <autogen>{{SS}} {{cL}}{{I}} KeyCode::VK_OPEN_URL_SKarabiner</autogen>
+    <autogen>{{SS}} {{cL}}{{M}} KeyCode::VK_OPEN_URL_Say</autogen>
+  </item>
+</root>

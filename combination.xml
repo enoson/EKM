@@ -1,0 +1,53 @@
+<root>
+  <item>
+    <name>key combinations for number, arrow, eta...</name>
+    <identifier>combination</identifier>
+<!-- numbers -->
+    <autogen>{{KK}} {{SP}}{{-FN}} {{0}}</autogen>
+    <autogen>{{KK}}  {{A}}{{-FN}} {{1}}</autogen>
+    <autogen>{{KK}}  {{S}}{{-FN}} {{2}}</autogen>
+    <autogen>{{KK}}  {{D}}{{-FN}} {{3}}</autogen>
+    <autogen>{{KK}}  {{F}}{{-FN}} {{4}}</autogen>
+    <autogen>{{KK}}  {{Q}}{{-FN}} {{5}}</autogen>
+    <autogen>{{KK}}  {{W}}{{-FN}} {{6}}</autogen>
+    <autogen>{{KK}}  {{E}}{{-FN}} {{7}}</autogen>
+    <autogen>{{KK}}  {{R}}{{-FN}} {{8}}</autogen>
+    <autogen>{{KK}} {{hR}}{{-FN}} {{9}}</autogen>
+    <autogen>{{KK}} {{cL}}{{-FN}} {{RM}}</autogen>
+    <autogen>{{SS}} {{SP}}{{DN}}  {{0}}</autogen>
+    <autogen>{{SS}}  {{A}}{{DN}}  {{1}}</autogen>
+    <autogen>{{SS}}  {{S}}{{DN}}  {{2}}</autogen>
+    <autogen>{{SS}}  {{D}}{{DN}}  {{3}}</autogen>
+    <autogen>{{SS}}  {{F}}{{DN}}  {{4}}</autogen>
+    <autogen>{{SS}}  {{Q}}{{DN}}  {{5}}</autogen>
+    <autogen>{{SS}}  {{W}}{{DN}}  {{6}}</autogen>
+    <autogen>{{SS}}  {{E}}{{DN}}  {{7}}</autogen>
+    <autogen>{{SS}}  {{R}}{{DN}}  {{8}}</autogen>
+    <autogen>{{SS}} {{hR}}{{DN}}  {{9}}</autogen>
+<!-- virtual modifier Z pressed -->
+    <autogen>{{KK}} {{cL}}{{-Z}} {{RM}}{{-mR}}</autogen>
+    <autogen>{{KK}} {{DL}}{{-Z}} {{DL}}{{-mR}}</autogen>
+    <autogen>{{KK}} {{SP}}{{-Z}}  {{Z}}{{-hR}}</autogen>
+    <autogen>{{KK}}  {{'}}{{-Z}}  {{Z}}{{-hs}}</autogen>
+    <autogen>{{KK}}  {{Q}}{{-Z}} {{LT}}{{-hR}}</autogen>
+    <autogen>{{KK}}  {{W}}{{-Z}} {{PU}} </autogen>
+    <autogen>{{KK}}  {{E}}{{-Z}} {{PD}} </autogen>
+    <autogen>{{KK}}  {{R}}{{-Z}} {{RT}}{{-hR}}</autogen>
+    <autogen>{{KK}}  {{T}}{{-Z}} {{UP}}{{-hR}}</autogen>
+    <autogen>{{KK}}  {{A}}{{-Z}} {{LT}} </autogen>
+    <autogen>{{KK}}  {{S}}{{-Z}} {{UP}} </autogen>
+    <autogen>{{KK}}  {{D}}{{-Z}} {{DN}} </autogen>
+    <autogen>{{KK}}  {{F}}{{-Z}} {{RT}} </autogen>
+    <autogen>{{KK}}  {{G}}{{-Z}} {{DN}}{{-hR}}</autogen>
+    <autogen>{{KK}}  {{Z}}{{-Z}} {{LT}}{{-hs}}</autogen>
+    <autogen>{{KK}}  {{X}}{{-Z}} {{FE}} </autogen>
+    <autogen>{{KK}}  {{C}}{{-Z}} {{FF}} </autogen>
+    <autogen>{{KK}}  {{V}}{{-Z}} {{RT}}{{-hs}}</autogen>
+    <autogen>{{KK}}  {{P}}{{-Z}} {{LT}}{{-hR}} {{RT}}{{-hs}}</autogen>
+    <autogen>{{KK}}  {{O}}{{-Z}} {{LT}}{{-mR}} {{RT}}{{-mR}} {{LT}}{{-ms}}</autogen>
+    <autogen>{{KK}}  {{L}}{{-Z}} {{LT}}{{-mR}}</autogen>
+    <autogen>{{KK}}  {{;}}{{-Z}} {{RT}}{{-mR}}</autogen>
+    <autogen>{{KK}}  {{.}}{{-Z}} {{LT}}{{-ms}}</autogen>
+    <autogen>{{KK}}  {{/}}{{-Z}} {{RT}}{{-ms}}</autogen>
+  </item>
+</root>

@@ -1,0 +1,68 @@
+<root>
+  <item>
+    <name>starter symbol modification for non Apple keyboard</name>
+    <identifier>starter-na-mod</identifier>
+    <device_not>DeviceVendor::APPLE_COMPUTER</device_not>
+  <!-- left Alt -->
+    <autogen>{{SS}} {{mL}}{{A}} {{!}}</autogen>
+    <autogen>{{SS}} {{mL}}{{S}} {{@}}</autogen>
+    <autogen>{{SS}} {{mL}}{{D}} {{#}}</autogen>
+    <autogen>{{SS}} {{mL}}{{F}} {{$}}</autogen>
+    <autogen>{{SS}} {{mL}}{{G}} {{%}}</autogen>
+    <autogen>{{SS}} {{mL}}{{H}} {{^}}</autogen>
+    <autogen>{{SS}} {{mL}}{{J}} {{&}}</autogen>
+    <autogen>{{SS}} {{mL}}{{K}} {{*}}</autogen>
+    <autogen>{{SS}} {{mL}}{{L}} {{"}}</autogen>
+    <autogen>{{SS}} {{mL}}{{;}} {{:}}</autogen>
+    <autogen>{{SS}} {{mL}}{{Q}} {{+}}</autogen>
+    <autogen>{{SS}} {{mL}}{{W}} {{-}}</autogen>
+    <autogen>{{SS}} {{mL}}{{E}} {{_}}</autogen>
+    <autogen>{{SS}} {{mL}}{{R}} {{=}}</autogen>
+    <autogen>{{SS}} {{mL}}{{U}} {{[}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{mL}}{{I}} {{]}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{mL}}{{O}} {{(}}</autogen>
+    <autogen>{{SS}} {{mL}}{{P}} {{)}}</autogen>
+    <autogen>{{SS}} {{mL}}{{Z}} {{~}}</autogen>
+    <autogen>{{SS}} {{mL}}{{X}} {{`}}</autogen>
+    <autogen>{{SS}} {{mL}}{{C}} {{|}}</autogen>
+    <autogen>{{SS}} {{mL}}{{V}} {{\}}</autogen>
+  </item>
+
+  <item>
+    <name>starter mapping for Apple keyboard</name>
+    <identifier>starter</identifier>
+  <!-- virtual modifier Z pressed -->
+    <autogen>{{KK}} {{E}}{{-Z}} {{PD}} </autogen>
+    <autogen>{{KK}} {{J}}{{-Z}} {{LT}}{{-mR}}</autogen>
+    <autogen>{{KK}} {{K}}{{-Z}}  {{Z}}{{-hR}}</autogen>
+    <autogen>{{KK}} {{L}}{{-Z}}  {{Z}}{{-hs}}</autogen>
+    <autogen>{{KK}} {{;}}{{-Z}} {{RT}}{{-mR}}</autogen>
+    <autogen>{{KK}} {{U}}{{-Z}} {{LT}}{{-ms}}</autogen>
+    <autogen>{{KK}} {{I}}{{-Z}} {{LT}}{{-mR}} {{RT}}{{-mR}} {{LT}}{{-ms}}</autogen>
+    <autogen>{{KK}} {{O}}{{-Z}} {{LT}}{{-hR}} {{RT}}{{-hs}}</autogen>
+    <autogen>{{KK}} {{P}}{{-Z}} {{RT}}{{-ms}}</autogen>
+  <!-- symbol -->
+    <autogen>{{SS}} {{hL}}{{A}} {{!}}</autogen>
+    <autogen>{{SS}} {{hL}}{{S}} {{@}}</autogen>
+    <autogen>{{SS}} {{hL}}{{D}} {{#}}</autogen>
+    <autogen>{{SS}} {{hL}}{{F}} {{$}}</autogen>
+    <autogen>{{SS}} {{hL}}{{G}} {{%}}</autogen>
+    <autogen>{{SS}} {{hL}}{{H}} {{^}}</autogen>
+    <autogen>{{SS}} {{hL}}{{J}} {{&}}</autogen>
+    <autogen>{{SS}} {{hL}}{{K}} {{*}}</autogen>
+    <autogen>{{SS}} {{hL}}{{L}} {{"}}</autogen>
+    <autogen>{{SS}} {{hL}}{{;}} {{:}}</autogen>
+    <autogen>{{SS}} {{hL}}{{Q}} {{+}}</autogen>
+    <autogen>{{SS}} {{hL}}{{W}} {{-}}</autogen>
+    <autogen>{{SS}} {{hL}}{{E}} {{_}}</autogen>
+    <autogen>{{SS}} {{hL}}{{R}} {{=}}</autogen>
+    <autogen>{{SS}} {{hL}}{{U}} {{[}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{hL}}{{I}} {{]}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{hL}}{{O}} {{(}}</autogen>
+    <autogen>{{SS}} {{hL}}{{P}} {{)}}</autogen>
+    <autogen>{{SS}} {{hL}}{{Z}} {{~}}</autogen>
+    <autogen>{{SS}} {{hL}}{{X}} {{`}}</autogen>
+    <autogen>{{SS}} {{hL}}{{C}} {{|}}</autogen>
+    <autogen>{{SS}} {{hL}}{{V}} {{\}}</autogen>
+  </item>
+</root>

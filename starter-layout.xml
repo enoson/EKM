@@ -1,0 +1,21 @@
+<root>
+	<item>
+	  <name>starter layout modification for non Apple keyboard</name>
+	  <identifier>starter-pc-mod</identifier>
+	  <device_not>DeviceVendor::APPLE_COMPUTER</device_not>
+	  <autogen>{{OO}} {{mR}} {{mR}} {{ES}}</autogen>
+	  <autogen>{{OO}} {{mL}} {{mL}} {{RE}}</autogen>
+	</item>
+
+	<item>
+	  <name>starter layout for Apple keyboard</name>
+	  <identifier>starter-layout</identifier>
+	<!-- modifier overlay -->
+	  <autogen>{{OO}} {{cL}} {{cL}} {{RM}}</autogen>
+	  <autogen>{{OO}} {{hL}} {{hL}} {{RE}}</autogen>
+	  <autogen>{{OO}} {{SP}} {{zZ}} {{SP}}</autogen>
+	  <autogen>{{OO}} {{hR}} {{hR}} {{ES}}</autogen>
+	  <autogen>{{OO}} {{DN}} {{FN}} {{DN}}</autogen>
+	  <autogen>{{OO}} {{;}}  {{hR}}{{-FN}} {{;}}</autogen>
+	</item>
+</root>

@@ -1,0 +1,42 @@
+<root>
+  <item>
+    <name>EKM modification for non apple keyboard</name>
+    <identifier>pc-mod</identifier>
+    <device_not>DeviceVendor::APPLE_COMPUTER</device_not>
+<!-- bottom row  -->
+    <autogen>{{KK}} {{mR}}{{-FN}} {{9}}</autogen>
+    <autogen>{{OO}} {{hL}} {{hL}} KeyCode::EXPOSE_ALL</autogen>
+    <autogen>{{OO}} {{mL}} {{cL}} {{RE}} </autogen>
+    <autogen>{{OO}} {{mR}} {{sR}} {{SP}} </autogen>
+    <autogen>{{OO}} {{hR}} {{mL}} {{FD}}</autogen>
+<!-- simul -->
+    <autogen>{{SS}} {{mR}}{{SP}} {{mR}}{{-hR}}</autogen>
+    <autogen>{{SS}} {{mR}}{{A}}  {{+}}</autogen>
+    <autogen>{{SS}} {{mR}}{{S}}  {{-}}</autogen>
+    <autogen>{{SS}} {{mR}}{{D}}  {{_}}</autogen>
+    <autogen>{{SS}} {{mR}}{{G}}  {{=}}{{=}}</autogen>
+    <autogen>{{SS}} {{mR}}{{L}}  {{=}}</autogen>
+    <autogen>{{SS}} {{mR}}{{;}}  {{"}}</autogen>
+    <autogen>{{SS}} {{mR}}{{'}}  {{'}}</autogen>
+    <autogen>{{SS}} {{mR}}{{Q}}  {{)}}</autogen>
+    <autogen>{{SS}} {{mR}}{{W}}  {{!}}</autogen>
+    <autogen>{{SS}} {{mR}}{{E}}  {{@}}</autogen>
+    <autogen>{{SS}} {{mR}}{{R}}  {{#}}</autogen>
+    <autogen>{{SS}} {{mR}}{{I}}  {{*}}</autogen>
+    <autogen>{{SS}} {{mR}}{{O}}  {{$}}</autogen>
+    <autogen>{{SS}} {{mR}}{{P}}  {{:}}</autogen>
+    <autogen>{{SS}} {{mR}}{{[}}  {{[}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{mR}}{{]}}  {{]}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{mR}}{{Z}}  {{&}}{{&}}</autogen>
+    <autogen>{{SS}} {{mR}}{{X}}  {{&}}</autogen>
+    <autogen>{{SS}} {{mR}}{{C}}  {{|}}</autogen>
+    <autogen>{{SS}} {{mR}}{{V}}  {{|}}{{|}}</autogen>
+    <autogen>{{SS}} {{mR}}{{M}}  {{%}}</autogen>
+    <autogen>{{SS}} {{mR}}{{,}}  {{,}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{mR}}{{.}}  {{.}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{mR}}{{/}}  {{?}}</autogen>
+    <autogen>{{SS}} {{mR}}{{DL}} {{~}}</autogen>
+    <autogen>{{SS}} {{mR}}{{sL}} {{`}}</autogen>
+    <autogen>{{SS}} {{mR}}{{sR}} {{^}}</autogen>
+  </item>
+</root>

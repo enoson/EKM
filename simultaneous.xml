@@ -1,0 +1,63 @@
+<root>
+  <item>
+    <name>pair of simultaneously pressed keys</name>
+    <identifier>simultaneous</identifier>
+<!-- screen off -->
+    <autogen>{{SS}} {{'}}{{RE}} KeyCode::VK_CONSUMERKEY_EJECT,{{-cs}}</autogen>
+<!-- copy,cut,paste -->
+    <autogen>{{SS}} {{A}}{{S}} {{X}}{{-hR}}</autogen>
+    <autogen>{{SS}} {{S}}{{D}} {{C}}{{-hR}}</autogen>
+    <autogen>{{SS}} {{D}}{{F}} {{V}}{{-hR}}</autogen>
+<!-- symbols -->
+    <autogen>{{SS}} {{hR}}{{A}}  {{+}}</autogen>
+    <autogen>{{SS}} {{hR}}{{S}}  {{-}}</autogen>
+    <autogen>{{SS}} {{hR}}{{D}}  {{_}}</autogen>
+    <autogen>{{SS}} {{hR}}{{G}}  {{=}}{{=}}</autogen>
+    <autogen>{{SS}} {{hR}}{{L}}  {{=}}</autogen>
+    <autogen>{{SS}} {{hR}}{{;}}  {{"}}</autogen>
+    <autogen>{{SS}} {{hR}}{{'}}  {{'}}</autogen>
+    <autogen>{{SS}} {{hR}}{{Q}}  {{)}}</autogen>
+    <autogen>{{SS}} {{hR}}{{W}}  {{!}}</autogen>
+    <autogen>{{SS}} {{hR}}{{E}}  {{@}}</autogen>
+    <autogen>{{SS}} {{hR}}{{R}}  {{#}}</autogen>
+    <autogen>{{SS}} {{hR}}{{I}}  {{*}}</autogen>
+    <autogen>{{SS}} {{hR}}{{O}}  {{$}}</autogen>
+    <autogen>{{SS}} {{hR}}{{P}}  {{:}}</autogen>
+    <autogen>{{SS}} {{hR}}{{[}}  {{[}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{hR}}{{]}}  {{]}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{hR}}{{Z}}  {{&}}{{&}}</autogen>
+    <autogen>{{SS}} {{hR}}{{X}}  {{&}}</autogen>
+    <autogen>{{SS}} {{hR}}{{C}}  {{|}}</autogen>
+    <autogen>{{SS}} {{hR}}{{V}}  {{|}}{{|}}</autogen>
+    <autogen>{{SS}} {{hR}}{{M}}  {{%}}</autogen>
+    <autogen>{{SS}} {{hR}}{{,}}  {{,}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{hR}}{{.}}  {{.}}{{-sL}}</autogen>
+    <autogen>{{SS}} {{hR}}{{/}}  {{?}}</autogen>
+    <autogen>{{SS}} {{hR}}{{DL}} {{~}}</autogen>
+    <autogen>{{SS}} {{hR}}{{sL}} {{`}}</autogen>
+    <autogen>{{SS}} {{hR}}{{sR}} {{^}}</autogen>
+<!-- app url -->
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_Chrome </name><url>file:///Applications/Google%20Chrome.app</url></vkopenurldef>
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_Maestro</name><url>file:///Applications/Keyboard%20Maestro.app</url></vkopenurldef>
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_Sublime</name><url>file:///Applications/Sublime%20Text.app</url></vkopenurldef>
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_Emacs </name><url>file:///Applications/Emacs.app</url></vkopenurldef>
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_SourceTree</name><url>file:///Applications/SourceTree.app</url></vkopenurldef>
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_Twitch </name><url>file:///Applications/Twitch.app</url></vkopenurldef>
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_Finder </name><url>file:///System/Library/CoreServices/Finder.app</url></vkopenurldef>
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_Activity</name><url>file:///Applications/Utilities/Activity\ Monitor.app</url></vkopenurldef>
+    <vkopenurldef><name>KeyCode::VK_OPEN_URL_iTerm </name><url>file:///Applications/iTerm.app</url></vkopenurldef>
+<!-- open app (left ctrl) -->
+    <autogen>{{SS}} {{cL}}{{K}} KeyCode::VK_OPEN_URL_Chrome</autogen>
+    <autogen>{{SS}} {{cL}}{{L}} KeyCode::VK_OPEN_URL_Emacs</autogen>
+    <autogen>{{SS}} {{cL}}{{;}} KeyCode::VK_OPEN_URL_Sublime</autogen>
+    <autogen>{{SS}} {{cL}}{{'}} KeyCode::VK_OPEN_URL_iTerm</autogen>
+    <autogen>{{SS}} {{cL}}{{O}} KeyCode::VK_OPEN_URL_Finder</autogen>
+    <autogen>{{SS}} {{cL}}{{P}} KeyCode::VK_OPEN_URL_Maestro</autogen>
+    <autogen>{{SS}} {{cL}}{{[}} KeyCode::VK_OPEN_URL_SourceTree</autogen>
+    <autogen>{{SS}} {{cL}}{{,}} KeyCode::VK_OPEN_URL_Twitch</autogen>
+<!-- multi modifier key -->
+    <autogen>{{SS}} {{SP}}{{hR}} {{hR}}{{-mR}}</autogen>
+    <autogen>{{SS}} {{mL}}{{F}}  {{mL}}{{-hL}}</autogen>
+    <autogen>{{SS}} {{mL}}{{K}}  {{mL}}{{-FN}}</autogen>
+  </item>
+</root>

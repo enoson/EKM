@@ -1,0 +1,31 @@
+<root>
+<item>
+  <name>EKM layout - swap top 2 rows</name>
+  <identifier>layout-top</identifier>
+
+  <autogen>{{KK}} {{1}}  {{F1}}</autogen>
+  <autogen>{{KK}} {{2}}  {{F2}}</autogen>
+  <autogen>{{KK}} {{3}}  {{F3}}</autogen>
+  <autogen>{{KK}} {{4}}  {{F4}}</autogen>
+  <autogen>{{KK}} {{5}}  {{F5}}</autogen>
+  <autogen>{{KK}} {{6}}  {{F6}}</autogen>
+  <autogen>{{KK}} {{7}}  {{F7}}</autogen>
+  <autogen>{{KK}} {{8}}  {{F8}}</autogen>
+  <autogen>{{KK}} {{9}}  {{F9}}</autogen>
+  <autogen>{{KK}} {{0}}  {{FA}}</autogen>
+  <autogen>{{KK}} {{-}}  {{FB}}</autogen>
+  <autogen>{{KK}} {{=}}  {{FC}}</autogen>
+  <autogen>{{KK}} {{F1}} {{1}} </autogen>
+  <autogen>{{KK}} {{F2}} {{2}} </autogen>
+  <autogen>{{KK}} {{F3}} {{3}} </autogen>
+  <autogen>{{KK}} {{F4}} {{4}} </autogen>
+  <autogen>{{KK}} {{F5}} {{5}} </autogen>
+  <autogen>{{KK}} {{F6}} {{6}} </autogen>
+  <autogen>{{KK}} {{F7}} {{7}} </autogen>
+  <autogen>{{KK}} {{F8}} {{8}} </autogen>
+  <autogen>{{KK}} {{F9}} {{9}} </autogen>
+  <autogen>{{KK}} {{FA}} {{0}} </autogen>
+  <autogen>{{KK}} {{FB}} {{-}} </autogen>
+  <autogen>{{KK}} {{FC}} {{=}} </autogen>
+</item>
+</root>

@@ -1,0 +1,11 @@
+<include path="abbreviation.xml"/>
+<include path="personal.xml"/>
+<include path="non-apple-mod.xml"/>
+<include path="starter.xml"/>
+<include path="combination.xml"/>
+<include path="simultaneous.xml"/>
+<include path="simul2combo-map.xml"/>
+<include path="starter-layout.xml"/>
+<include path="layout-top.xml"/>
+<include path="layout-middle.xml"/>
+<include path="layout-bottom.xml"/>
