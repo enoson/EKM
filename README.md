@@ -79,7 +79,7 @@ or download (, extract) and put these files to [the Karabiner directory](https:/
 
 Reload:
 
-![image](https://pqrs.org/osx/karabiner/img/reload_xml.png)
+![image](https://cloud.githubusercontent.com/assets/13136462/8876588/36a3ecfe-3253-11e5-8ebf-3e4e1fd973ee.png)
 
 Enable the mappings: (starter)
 
@@ -111,7 +111,7 @@ Since there are 5 vowels and 10 keys around them, these two requirements are imp
 
 Put your right forefinger on the original "k" key instead of "j", so your right thumb can put on the original right command by default.
 
-Install [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to map `capslock` to `Delete`:
+Install [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to map `capslock` to `Forward Delete`(117):
 
 ![image](https://cloud.githubusercontent.com/assets/13136462/8763333/5896e7e6-2dc9-11e5-8538-81939e532635.png)
 
